@@ -70,7 +70,6 @@ class _RandomWordsState extends State<RandomWords>
                 trailing: const Icon(
                   Icons.done,
                   color: Colors.green,
-                  semanticLabel: 'حذف',
                 ),
               );
             },
